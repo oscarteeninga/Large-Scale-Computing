@@ -1,0 +1,5 @@
+Executable = "./pinger.sh";
+Arguments = "";
+StdOutput = "pinger.out";
+StdError = "pinger.err";
+OutputSandbox = {"pinger.out", "pinger.err"};

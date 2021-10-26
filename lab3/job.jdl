@@ -1,0 +1,5 @@
+Executable = "/bin/hostname";
+Arguments = "-f";
+StdOutput = "job.out";
+StdError = "job.err";
+OutputSandbox = {"job.out", "job.err"};
