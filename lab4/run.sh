@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-04ad2567c9e3d7893 --instance-type t2.micro --subnet-id subnet-079adca36826462b6
