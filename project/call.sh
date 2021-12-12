@@ -1,0 +1,1 @@
+ kubeless function call montecarlo --data ';0;3.14;'
