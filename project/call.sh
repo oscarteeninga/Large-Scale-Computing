@@ -1,1 +1,1 @@
- kubeless function call montecarlo --data ';0;3.14;'
+ kubeless function call montecarlo --data ';0;2.0;'
